@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "title": "Task 1",
+    "description": "This is a sample task description",
+    "completed": false,
+    "priority": "high",
+    "tags": ["work", "important"]
+  },
+  {
+    "id": 2,
+    "title": "Task 2",
+    "description": "Another sample task with different data",
+    "completed": true,
+    "priority": "medium",
+    "tags": ["personal"]
+  },
+  {
+    "id": 3,
+    "title": "Task 3",
+    "description": "A third sample task for demonstration",
+    "completed": false,
+    "priority": "low",
+    "tags": ["work", "optional"]
+  },
+  {
+    "id": 4,
+    "title": "Task 4",
+    "description": "Fourth example task with more content",
+    "completed": false,
+    "priority": "high",
+    "tags": ["personal", "important"]
+  },
+  {
+    "id": 5,
+    "title": "Task 5",
+    "description": "The fifth sample task in our list",
+    "completed": true,
+    "priority": "medium",
+    "tags": ["work", "research"]
+  }
+] 
