@@ -40,7 +40,7 @@ export default function RootLayout() {
           </Stack>
         </View>
       </View>
-      <StatusBar style="auto" />
+      <StatusBar style={colorScheme === 'dark' ? 'light' : 'dark'} backgroundColor={colorScheme === 'dark' ? '#000000' : '#FFFFFF'} />
     </ThemeProvider>
   );
 }
@@ -48,6 +48,7 @@ export default function RootLayout() {
 const styles = StyleSheet.create({
   container: {
     flex: 1,
+    backgroundColor: '#000000',
   },
   content: {
     flex: 1,

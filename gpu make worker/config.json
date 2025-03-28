@@ -1,0 +1,9 @@
+{
+    "camera_source": 0,
+    "ip_webcam_url": "http://192.168.18.197:8080/shot.jpg",
+    "ip_camera_fps_limit": 60,
+    "ip_camera_resize": true,
+    "ip_camera_width": 640,
+    "ip_camera_height": 480,
+    "use_threaded_camera": true
+}

@@ -1,0 +1,5 @@
+Name: jisnu
+Date/Time: 2025-03-27 19:25:45
+Sample ID: 1
+Face image: jisnu_2025-03-27_19-25-45_sample001.jpg
+Full image: jisnu_2025-03-27_19-25-45_full_sample001.jpg

@@ -1,0 +1,5 @@
+Name: sai
+Date/Time: 2025-03-27 20:24:41
+Sample ID: 1
+Face image: sai_2025-03-27_20-24-41_sample001.jpg
+Full image: sai_2025-03-27_20-24-41_full_sample001.jpg

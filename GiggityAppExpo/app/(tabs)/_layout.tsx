@@ -53,6 +53,13 @@ export default function TabLayout() {
         }}
       />
       <Tabs.Screen
+        name="facerecognition"
+        options={{
+          title: 'Face Rec',
+          tabBarIcon: ({ color }) => <ThemedText style={{ color, fontSize: 24 }}>👤</ThemedText>,
+        }}
+      />
+      <Tabs.Screen
         name="chatbot"
         options={{
           title: 'ChatBot',
